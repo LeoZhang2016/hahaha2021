@@ -1,0 +1,8 @@
+third text
+newbranchC
+
+test stash
+
+test pull conflict
+
+pull confict 4
