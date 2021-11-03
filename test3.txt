@@ -1,2 +1,4 @@
 third text
 newbranchC
+
+test stash
