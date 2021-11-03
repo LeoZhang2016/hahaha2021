@@ -5,4 +5,4 @@ test stash
 
 test pull conflict
 
-pull confict 3
+pull confict 4
