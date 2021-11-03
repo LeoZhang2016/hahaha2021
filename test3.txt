@@ -4,3 +4,5 @@ newbranchC
 test stash
 
 test pull conflict
+
+pull confict 2
